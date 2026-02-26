@@ -1,7 +1,9 @@
 ☕ Object-Oriented Programming – Java
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="120" height="120"/> </p>
-📂 Folder Structure
+
 ```
+
+📂 Folder Structure
 OOP-in-Java/
 │
 ├── Level-1-OOP-Basics/
