@@ -1,0 +1,12 @@
+🟡 Level 2: Core OOP Principles
+
+1.Encapsulation
+2.Getters and Setters
+3.Abstraction
+4.Inheritance
+5.super Keyword
+6.Method Overriding
+7.final Keyword
+8.Polymorphism
+9.Compile-time Polymorphism (Method Overloading)
+10.Runtime Polymorphism (Method Overriding)
